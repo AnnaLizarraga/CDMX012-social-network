@@ -357,7 +357,9 @@ Se realizaron diferentes pruebas de usabilidad a través de la plataforma de maz
 
 ---
 
-6. Desarrolladoras | Contacto |
+## 6. Creadoras
+
+| Desarrolladoras | Contacto |
 | ------------------- | ------------------- |
 | Atenas Villalba| [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atenas-villalba-764bb8235/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AtenasVillalba) |
 | Anna Lizarraga | [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-lizarraga/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnnaLizarraga) |
@@ -729,8 +731,10 @@ Different usability tests were performed through the maze platform in order to c
 
 <br></br>
 
----
-6. Developers | Contact |
+
+## 6. Creators
+
+| Developers | Contact |
 | ------------------- | ------------------- |
 | Atenas Villalba| [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atenas-villalba-764bb8235/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AtenasVillalba) |
 | Anna Lizarraga | [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-lizarraga/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnnaLizarraga) |
